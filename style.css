@@ -1,6 +1,8 @@
 /* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
 
 * {
     margin: 0;
@@ -8,7 +10,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
 }
 
 html {
@@ -16,6 +18,7 @@ html {
 }
  
 p {
+  line-height: 2rem;
     color: rgb(85, 85, 85);
 }
 
