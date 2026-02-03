@@ -35,12 +35,12 @@ This is a personal portfolio website created to showcase my skills, projects, an
 ---
 
 ## 📂 File Structure
-├── index.html # Main website structure
-├── style.css # Core styling rules
-├── mediaqueries.css # Additional responsive styles
-├── script.js # JavaScript functions
-└── assets/ # Images, icons, and media files
-
+.
+├── index.html          # Main website structure
+├── style.css           # Core styling rules
+├── mediaqueries.css    # Additional responsive styles
+├── script.js           # JavaScript functions
+└── assets/             # Images, icons, and media files
 
 ---
 
