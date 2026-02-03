@@ -2,7 +2,7 @@
 # Personal Portfolio Website
 
 ## 📌 Overview
-This is a personal portfolio website created to showcase my skills, projects, and experience. It serves as my professional online presence and is fully responsive, ensuring a smooth experience on desktops, tablets, and mobile devices.
+This is a personal portfolio website created to showcase my skills, projects, and skills. It serves as my professional online presence and is fully responsive, ensuring a smooth experience on desktops, tablets, and mobile devices.
 
 ---
 
@@ -18,7 +18,7 @@ This is a personal portfolio website created to showcase my skills, projects, an
 - **Responsive Navigation** – Desktop menu for large screens and hamburger menu for mobile.
 - **Profile Section** – Introduction, professional headline, and call-to-action buttons.
 - **About Section** – Background information and skill highlights.
-- **Experience Section** – Details of my expertise in various technologies.
+- **Skills Section** – Details of my skills in various technologies.
 - **Projects Section** – Showcase of work with images and external links.
 - **Contact Section** – Multiple contact options and downloadable CV.
 - **Consistent Styling** – Unified buttons, hover effects, and color scheme.
